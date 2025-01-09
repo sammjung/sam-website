@@ -4,7 +4,7 @@ function Hobbies() {
   return (
     <div>
       <h1>
-        <Link to="/" style={{ borderBottom: '2px solid #f90', display: 'inline-block', paddingBottom: '2px' }}>
+        <Link to="/" style={{ borderBottom: '2px solid #f90', display: 'inline-block', paddingBottom: '2px', maxWidth: '100%' }}>
           Sam Jung
         </Link>
       </h1>
@@ -14,7 +14,7 @@ function Hobbies() {
 
       <h3># Hobbies</h3>
       
-      <div>
+      <div style={{ maxWidth: '100%', overflow: 'hidden' }}>
         <h4>Things I'm trying:</h4>
         <ul style={{ listStyleType: 'none', padding: 0 }}>
           <li>★ Photography</li>
@@ -42,7 +42,7 @@ function Hobbies() {
         </ul>
       </div>
 
-      <div style={{ borderTop: '1px dotted #666', marginTop: '3rem', paddingTop: '1rem' }}>
+      <div className="footer-content" style={{ borderTop: '1px dotted #666', marginTop: '3rem', paddingTop: '1rem' }}>
         <p style={{ margin: 0, color: '#666', fontSize: '0.9rem' }}>2024 © Sam J.</p>
       </div>
     </div>
