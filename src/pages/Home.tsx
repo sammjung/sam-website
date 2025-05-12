@@ -5,11 +5,11 @@ function Home() {
   return (
     <div>
       <h1 style={{ borderBottom: '2px solid #f90', display: 'inline-block', paddingBottom: '2px', maxWidth: '100%' }}>Sam Jung</h1>
-      <h2>Founder and CTO @ Archon Technologies</h2>
+      <h2>Founder and CPO @ Archon Technologies</h2>
 
       <h3>Currently:</h3>
       <ul style={{ listStyleType: 'none', padding: 0 }}>
-        <li><em>building</em> <a href="https://getarchon.com">the future of government software at Archon Technologies</a></li>
+        <li><em>building</em> <a href="https://getarchon.com">the future of public security at Archon Technologies</a></li>
         <li><em>learning</em> <Link to="/hobbies">photography</Link></li>
       </ul>
 
@@ -26,7 +26,7 @@ function Home() {
         <li><em>BA in Government, MSE in CS @ the University of Pennsylvania</em></li>
       </ul>
 
-      <p style={{ marginTop: '2rem', wordBreak: 'break-word' }}><strong>meet me</strong> at sam [at] getarchon.com</p>
+      <p style={{ marginTop: '2rem', wordBreak: 'break-word' }}><strong>meet me</strong> at sam [at] archon.inc</p>
 
       <div className="footer-content" style={{ borderTop: '1px dotted #666', marginTop: '3rem', paddingTop: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
         <a href="https://github.com/sammjung" style={{ marginRight: '0.5rem', borderBottom: 'none' }}><FaGithub size={20} /></a>
