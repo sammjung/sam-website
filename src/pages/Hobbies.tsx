@@ -4,13 +4,13 @@ function Hobbies() {
   return (
     <div>
       <h1>
-        <Link to="/" style={{ borderBottom: '2px solid #f90', display: 'inline-block', paddingBottom: '2px', maxWidth: '100%' }}>
+        <Link to="/" style={{ borderBottom: '2px solid #8b9eb3', display: 'inline-block', paddingBottom: '2px', maxWidth: '100%' }}>
           Sam Jung
         </Link>
       </h1>
       
-      <h2 style={{ color: '#4B0082' }}># my tries</h2>
-      <p className="post-date">Updated on Jan 5, 2024</p>
+      <h2 style={{ color: '#ffffff' }}># my tries</h2>
+      <p className="post-date">Updated on Nov 16, 2025</p>
 
       <h3># Hobbies</h3>
       
@@ -18,7 +18,8 @@ function Hobbies() {
         <h4>Things I'm trying:</h4>
         <ul style={{ listStyleType: 'none', padding: 0 }}>
           <li>★ Photography</li>
-          <li>★ Sailing</li>
+          <li>★ Cooking</li>
+          <li>★ Writing</li>
         </ul>
 
         <h4>Things I've tried:</h4>
@@ -42,8 +43,8 @@ function Hobbies() {
         </ul>
       </div>
 
-      <div className="footer-content" style={{ borderTop: '1px dotted #666', marginTop: '3rem', paddingTop: '1rem' }}>
-        <p style={{ margin: 0, color: '#666', fontSize: '0.9rem' }}>2024 © Sam J.</p>
+      <div className="footer-content" style={{ borderTop: '1px dotted #cccccc', marginTop: '3rem', paddingTop: '1rem' }}>
+        <p style={{ margin: 0, color: '#cccccc', fontSize: '0.9rem' }}>2024 © Sam J.</p>
       </div>
     </div>
   )
