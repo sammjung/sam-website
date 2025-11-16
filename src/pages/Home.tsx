@@ -17,7 +17,7 @@ function Home() {
 
       <h3>Formerly:</h3>
       <ul style={{ listStyleType: 'none', padding: 0 }}>
-        <li><em>founded</em> <a href="https://getarchon.com">a YC-backed cybersecurity startup</a></li>
+        <li><em>founded</em> <a href="https://archon.inc">a YC-backed cybersecurity startup</a></li>
         <li><em>scaled</em> <a href="https://paragonfellowship.org">a tech policy fellowship</a></li>
         <li><em>worked on CBRN policy with the </em> <a href="https://www.nist.gov/aisi">U.S. AI Safety Institute</a></li>
         <li><em>advised diplomats on emerging tech</em> <a href="https://www.state.gov"> @ U.S. Department ofState</a></li>
