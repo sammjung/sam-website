@@ -143,7 +143,7 @@ function Home() {
       </p>
 
       <p>
-        I enjoy <Link to="/hobbies">photography</Link> and <a href="https://valleyslop.com/" target="_blank" rel="noopener noreferrer">writing</a>.
+        I enjoy <Link to="/hobbies">photography</Link>.
       </p>
 
       <ContributionGraph />
