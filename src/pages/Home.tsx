@@ -134,8 +134,8 @@ function Home() {
         Previously, I founded a YC-backed <a href="https://archon.inc">cybersecurity startup</a>,{' '}
         scaled a <a href="https://paragonfellowship.org">tech policy fellowship</a>,{' '}
         worked on CBRN policy with the <a href="https://www.nist.gov/aisi">U.S. AI Safety Institute</a>,{' '}
-        advised diplomats on emerging tech at the <a href="https://www.state.gov">U.S. Department of State</a>,{' '}
-        and evangelized open source AI at <a href="https://allenai.org">AI2</a>.
+        advised diplomats on AI, energy, & advanced simulations at the <a href="https://www.state.gov">U.S. Department of State</a>,{' '}
+        and evangelized open source AI at <a href="https://allenai.org">Ai2</a>.
       </p>
 
       <p>
